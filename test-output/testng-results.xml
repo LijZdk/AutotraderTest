@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="54314" started-at="2017-07-10T15:12:50Z" finished-at="2017-07-10T15:13:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="54314" started-at="2017-07-10T15:12:50Z" finished-at="2017-07-10T15:13:44Z">
+      <class name="MavenTest.Testreport.AppTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:MavenTest.Testreport.AppTest@39c0f4a]" name="setup" is-config="true" duration-ms="31893" started-at="2017-07-10T16:12:50Z" finished-at="2017-07-10T16:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="AutoTest1()[pri:1, instance:MavenTest.Testreport.AppTest@39c0f4a]" name="AutoTest1" duration-ms="302" started-at="2017-07-10T16:13:22Z" finished-at="2017-07-10T16:13:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutoTest1 -->
+        <test-method status="PASS" signature="verifyPostCodeBox()[pri:2, instance:MavenTest.Testreport.AppTest@39c0f4a]" name="verifyPostCodeBox" duration-ms="278" started-at="2017-07-10T16:13:22Z" finished-at="2017-07-10T16:13:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPostCodeBox -->
+        <test-method status="PASS" signature="SelectDistance()[pri:3, instance:MavenTest.Testreport.AppTest@39c0f4a]" name="SelectDistance" duration-ms="2191" started-at="2017-07-10T16:13:23Z" finished-at="2017-07-10T16:13:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDistance -->
+        <test-method status="PASS" signature="SelectMake()[pri:4, instance:MavenTest.Testreport.AppTest@39c0f4a]" name="SelectMake" duration-ms="550" started-at="2017-07-10T16:13:25Z" finished-at="2017-07-10T16:13:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectMake -->
+        <test-method status="PASS" signature="SelectAshtonTyp()[pri:5, instance:MavenTest.Testreport.AppTest@39c0f4a]" name="SelectAshtonTyp" duration-ms="493" started-at="2017-07-10T16:13:25Z" finished-at="2017-07-10T16:13:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectAshtonTyp -->
+        <test-method status="PASS" signature="SelectSearch()[pri:6, instance:MavenTest.Testreport.AppTest@39c0f4a]" name="SelectSearch" duration-ms="11444" started-at="2017-07-10T16:13:26Z" finished-at="2017-07-10T16:13:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectSearch -->
+        <test-method status="PASS" signature="SelectAsht()[pri:7, instance:MavenTest.Testreport.AppTest@39c0f4a]" name="SelectAsht" duration-ms="6899" started-at="2017-07-10T16:13:37Z" finished-at="2017-07-10T16:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectAsht -->
+        <test-method status="PASS" signature="SelectAshtd()[pri:8, instance:MavenTest.Testreport.AppTest@39c0f4a]" name="SelectAshtd" duration-ms="213" started-at="2017-07-10T16:13:44Z" finished-at="2017-07-10T16:13:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectAshtd -->
+      </class> <!-- MavenTest.Testreport.AppTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
